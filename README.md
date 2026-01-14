@@ -594,6 +594,37 @@ Rules:
 
 
 
-pip install -r requirements.txt
+## References
 
-streamlit run app.py
+This project draws on established research and reports in learning science, adaptive learning systems, and the economics of education. Key sources include:
+
+OECD. The Economic Impacts of Learning Losses. OECD Publishing, 2020.
+— Analysis of long-term GDP and productivity losses caused by learning gaps.
+
+UNESCO. Out-of-School Children and Educational Gaps Cost the Global Economy Trillions Annually. UNESCO, 2024.
+— Global overview of education exclusion and economic impact.
+
+Teachers College, Columbia University. The Cost of Inadequate Education to Society. 2005.
+— Foundational analysis of economic, health, and social costs of educational failure.
+
+Carnegie Learning. Research on Adaptive and Personalized Learning Systems.
+— Empirical studies showing improvements in engagement and learning outcomes.
+
+OECD Education Working Papers. Personalised Learning and the Role of Technology.
+— Policy-oriented discussion on personalization, equity, and system-level design.
+
+Kwak, M. The Effectiveness of AI-Driven Tools in Improving Student Outcomes.
+International Association for Computer Information Systems (IACIS), 2025.
+— Meta-analysis of AI-based adaptive learning systems across contexts.
+
+VanLehn, K. The Relative Effectiveness of Human Tutoring, Intelligent Tutoring Systems, and Other Tutoring Systems.
+Educational Psychologist, 2011.
+— Comparative study of adaptive feedback and learning support mechanisms.
+
+Bloom, B. S. The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One Tutoring.
+Educational Researcher, 1984.
+— Classic work motivating adaptive and mastery-based learning approaches.
+
+## Notes on AI Use
+
+AI tools (including large language models) were used to assist with research synthesis, prototyping, and system design exploration. All outputs were reviewed, adapted, and integrated by the team. No AI system was used to evaluate learner ability or make high-stakes educational decisions.
